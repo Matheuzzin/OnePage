@@ -8,11 +8,6 @@ $(document).ready(function(){
     $('a').click(function(e){
         e.preventDefault()
 
-        // $('#home').hide()
-        // $('#about').hide()
-        // $('#action').hide()
-        // $('#contact').hide()
-
         // capturar qual é a página que desejo abrir
         let url = $(this).attr('href')
         $('#'+url).show()
