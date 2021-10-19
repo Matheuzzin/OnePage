@@ -5,3 +5,5 @@
 27/09 - Realização do efeito Parallax.
 
 04/10 - Atualização do efeito Parallax.
+
+18/10 - Personalização do Menu com Parallax.
