@@ -18,6 +18,10 @@ h2{
     color: #bdc3c7;
 }
 
+#menu {
+    z-index: 999;
+}
+
 #divs{
     display: none;
 }
